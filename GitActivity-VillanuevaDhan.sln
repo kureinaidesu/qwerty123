@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GitActivity-VillanuevaDhan", "GitActivity-VillanuevaDhan\GitActivity-VillanuevaDhan.pyproj", "{6438173F-9409-41EB-A551-5D8DE3ED0870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6438173F-9409-41EB-A551-5D8DE3ED0870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6438173F-9409-41EB-A551-5D8DE3ED0870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {665CF2D8-3676-4AE5-A561-98A357B58D1E}
+	EndGlobalSection
+EndGlobal
